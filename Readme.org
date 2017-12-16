@@ -1,0 +1,16 @@
+#+STARTUP: showall hidestars
+* Links
+  [[http://cestlaz.github.io][Here's my blog]]
+* Lesson 1
+** Part I
+  Introducing the series and setting up packet manager
+  * Show melpa
+  * setup melpa 
+** Installing some packages
+  * Installed use-package
+  * Installed try
+  * Installed which-key
+* Lesson 2
+  Show some org mode
+  * review init.el
+  * Setup Readme.org
